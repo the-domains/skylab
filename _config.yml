@@ -1,0 +1,14 @@
+layout_spectrum: 0.9945989877451211
+typography_spectrum: 0.8603812479414046
+color:
+  brandStrength: 0.687422500224784
+  lightness: 0.21099927020259202
+  saturation: 0.49271225114353
+  rhythmicContrast: 0.552616870496422
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: skylab
